@@ -1,1 +1,130 @@
 
+/* Your Name Prabhnoor kaur - Student Number 8980918 */
+
+html{
+    height: 100%;
+   width: 100%;
+}
+
+body {
+    
+    width: 60%;
+        max-width: 1100px;
+        margin: 10px;
+        padding: 10px;
+        font-style: normal;
+        background-color: #dae7d2;
+        min-height:100% ;
+        display: flex;
+        flex-direction: column;
+
+
+}
+header{
+    border: 2px solid #212020 ;
+        border-radius: 6px;
+        padding: 6px;
+    border-width: 100%;
+   
+    margin: 20px;
+    width: auto;
+    text-align: center;
+}
+
+   
+footer{
+    border: 5px solid #464141;
+        border-radius: 4px;
+        padding: 2px;
+        margin: 20px;
+        text-align: center;
+        margin-top: auto;
+    
+
+
+
+
+}
+div{
+    width: 30%;
+    border: #820305;
+    border-radius: 6px;
+    float: right;
+    position: absolute;
+    top: 220px;
+    right: 30%;
+
+
+
+    
+}
+img{
+
+width: 300px;
+height: 300px;
+border-width: 300px;
+border-radius: 2px solid black;
+}
+
+
+
+h1, h2 {
+    color: #820305;
+    font-variant: small-caps;
+}
+
+
+main {
+    float: left;
+    width: 66.66%;
+    padding: 10px;
+    margin: 10px;
+    
+    
+
+}
+
+aside {
+    float: right ;
+    text-align: center;
+    width: 250px;
+    padding: 10px;
+    height: 100%;
+    background-color: gold;
+}
+
+
+.mainimg img {
+    border: 2px solid #333;
+    
+}
+
+
+figcaption {
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+
+q {
+    
+    font-style: italic;
+    font-size: 1.2em;
+}
+
+
+ul li {
+    list-style: none;
+    line-height: 1.6;
+}
+
+
+ul > li > a {
+    text-decoration: none;
+    color: #009900;
+}
+
+
+aside a:hover {
+    color: #ff6600;
+}
